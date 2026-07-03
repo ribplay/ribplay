@@ -1,1 +1,1 @@
-<img src="https://github.com/ribplay/ribplay/blob/d87af00748504317da2c989be2aa3a23aeb946ac/a-regect-regect-arg.png" alt="Description" width="1000">
+<img src="https://github.com/ribplay/ribplay/blob/825c0328e58a1530959b2a1a632837314220bc5e/a-regect-regect-arg.gif" alt="Description" width="1000">
